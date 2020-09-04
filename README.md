@@ -7,7 +7,7 @@ a. Predicting housing prices using Linear Regression
 
 - Fraud Detection
 
-a. Preidicting fraudulent transactions using Logistic Regression
+a. Predicting fraudulent transactions using Logistic Regression
 
 - Retail sales predictions
 
