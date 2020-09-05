@@ -65,6 +65,6 @@ c. CNN LSTM Network
 
 d. Univariate Time Series Forecasting
 
-e. Mutlivariate Time Series Forecasting
+e. Multivariate Time Series Forecasting
 
 
